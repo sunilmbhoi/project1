@@ -1,6 +1,3 @@
 welcome
 updating in fix2 branch
-
-comment 1 on fix2
-
-comment 2 on fix2
+C
